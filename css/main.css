@@ -10,6 +10,10 @@ html {
   color: #113c00;
 }
 
+h2 {
+  font-weight: 700;
+}
+
 a {
   color: #568c36;
 }
@@ -55,6 +59,10 @@ a:hover {
 
 .prices {
   background-color: #f5f2f0;
+}
+
+.read {
+  display: block;
 }
 
 th,
